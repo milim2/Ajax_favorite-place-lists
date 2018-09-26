@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<places>
+
+<name>Favorite List</name>
+ <list>
+	<name>Machu Picchu</name>
+	<pic>place1.jpg</pic>
+	<introduction>
+	Machu Picchu is an Incan citadel set high in the Andes Mountains in Peru, above the Urubamba River valley. Built in the 15th century and later abandoned, it’s renowned for its sophisticated dry-stone walls that fuse huge blocks without the use of mortar, intriguing buildings that play on astronomical alignments and panoramic views. Its exact former use remains a mystery.
+	</introduction>
+	<location> ‎Cuzco Region</location>
+	<country>Peru</country>
+	</list>
+<list>
+	<name>Santorini</name>
+	<pic>place2.jpg</pic>
+	<introduction>
+	Santorini is one of the Cyclades islands in the Aegean Sea. It was devastated by a volcanic eruption in the 16th century BC, forever shaping its rugged landscape. The whitewashed, cubiform houses of its 2 principal towns, Fira and Oia, cling to cliffs above an underwater caldera (crater). They overlook the sea, small islands to the west and beaches made up of black, red and white lava pebbles.
+	</introduction>
+	<location>Aegean Sea</location>
+	<country>Greece</country>
+	</list>
+<list>
+	<name>Moraine Lake</name>
+	<pic>place3.jpg</pic>
+	<introduction>
+	Moraine Lake is a glacially fed lake in Banff National Park, 14 kilometres outside the Village of Lake Louise, Alberta, Canada. It is situated in the Valley of the Ten Peaks, at an elevation of approximately 6,183 feet. The lake has a surface area of 50 hectares.
+	</introduction>
+	<location>Alberta</location>
+	<country>Canada</country>
+	</list>
+	<list>
+	<name>Alaska</name>
+	<pic>place4.jpg</pic>
+	<introduction>
+	Alaska, northwest of Canada, is the largest and most sparsely populated U.S. state. It's known for its diverse terrain of open spaces, mountains and forests, with abundant wildlife and many small towns. It’s a destination for outdoor activities like skiing, mountain biking and kayaking. Massive Denali National Park is home to Denali (formerly called Mount McKinley), North America’s highest peak.
+	</introduction>
+	<location>State of Alaska</location>
+	<country>USA</country>
+	</list>
+	<list>
+	<name>Bagan</name>
+	<pic>place5.jpg</pic>
+	<introduction>
+	Bagan is an ancient city in central Myanmar (formerly Burma), southwest of Mandalay. Standing on the eastern banks of the Ayeyarwady River, it’s known for the Bagan Archaeological Area, where more than 2,000 Buddhist monuments tower over green plains. Holy sites around Old Bagan include ornate Ananda Temple, built in 1091 and topped with a golden stupa. Nearby is the vast 12th-century Dhammayangyi Temple.
+	</introduction>
+	<location>Bagan</location>
+	<country>Myanmar</country>
+	</list>
+	<list>
+	<name>Patagonia</name>
+	<pic>place6.jpg</pic>
+	<introduction>
+	Patagonia is a region encompassing the vast southernmost tip of South America, shared by Argentina and Chile, with the Andes Mountains as its dividing line. The Argentine side features arid steppes, grasslands and deserts, while the Chilean has glacial fjords and temperate rainforest. Argentina’s famed RN-40 highway passes the pinnacles of Monte Fitz Roy and Perito Moreno Glacier in Los Glaciares National Park.
+	</introduction>
+	<location>Puerto Montt(Chile), Colorado River(Argentina)</location>
+	<country>Chile and Argentina</country>
+	</list>
+</places>
